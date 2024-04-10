@@ -18,7 +18,7 @@ Use the navigation to the left to read about the available resources.
 terraform {
   required_providers {
     gandi = {
-      version = "~> 2.0.0"
+      version = "~> 2.3"
       source   = "go-gandi/gandi"
     }
   }
